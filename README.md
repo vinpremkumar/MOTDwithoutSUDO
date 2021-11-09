@@ -17,3 +17,6 @@ if [[ "$SSH_TTY" == */dev/pts/* ]] ; then
 fi
 
 ```
+
+# Output
+![image](https://user-images.githubusercontent.com/49431830/140963892-253d2e3e-f0a9-4dbb-9c79-293844a1b755.png)
